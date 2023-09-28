@@ -15,7 +15,7 @@ Admin dashboard for managing user accounts, donations, and requests.
 Search functionality to find donors based on blood type, location, and availability.
 Detailed documentation to help you set up and customize the Blood Bank platform.**_
 
-_**Contributions:**-
+_**Contributions:**_
 
 _**We welcome contributions from developers, designers, and anyone interested in improving the Blood Bank project. 
 Whether it's bug fixes, feature enhancements, or user experience improvements, 
